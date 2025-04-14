@@ -1,6 +1,6 @@
 # About
 
-ESPhome project by Shenzhen Athom Technology Co., Ltd., China.
+My personnal configurations :)
 
 # Installation
 
